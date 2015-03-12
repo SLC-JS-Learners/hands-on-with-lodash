@@ -1,4 +1,5 @@
-= Hands On with lodash =
+Hands On with lodash
+=
 
 A walkthrough on lodash at the SLC JS Learners meetup March 17, 2015 by Ken Snyder
 
